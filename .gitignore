@@ -1,0 +1,6 @@
+.venv/
+*.ipynb
+*.xlsx
+test.py
+*.spec
+build/
